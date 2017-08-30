@@ -1,0 +1,100 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "gatsby-remark-responsive-image@1.0.0-beta.5-alpha.fb30fcd6",
+        "scope": null,
+        "escapedName": "gatsby-remark-responsive-image",
+        "name": "gatsby-remark-responsive-image",
+        "rawSpec": "1.0.0-beta.5-alpha.fb30fcd6",
+        "spec": "1.0.0-beta.5-alpha.fb30fcd6",
+        "type": "version"
+      },
+      "/home/chuck/localProjects/travellers.cafe"
+    ]
+  ],
+  "_from": "gatsby-remark-responsive-image@1.0.0-beta.5-alpha.fb30fcd6",
+  "_id": "gatsby-remark-responsive-image@1.0.0-beta.5-alpha.fb30fcd6",
+  "_inCache": true,
+  "_location": "/gatsby-remark-responsive-image",
+  "_nodeVersion": "8.1.2",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/gatsby-remark-responsive-image-1.0.0-beta.5-alpha.fb30fcd6.tgz_1498710033022_0.5298946630209684"
+  },
+  "_npmUser": {
+    "name": "kylemathews",
+    "email": "mathews.kyle@gmail.com"
+  },
+  "_npmVersion": "4.6.1",
+  "_phantomChildren": {
+    "css-select": "1.2.0",
+    "dom-serializer": "0.1.0",
+    "entities": "1.1.1",
+    "htmlparser2": "3.9.2",
+    "lodash": "4.17.4",
+    "parse5": "3.0.2"
+  },
+  "_requested": {
+    "raw": "gatsby-remark-responsive-image@1.0.0-beta.5-alpha.fb30fcd6",
+    "scope": null,
+    "escapedName": "gatsby-remark-responsive-image",
+    "name": "gatsby-remark-responsive-image",
+    "rawSpec": "1.0.0-beta.5-alpha.fb30fcd6",
+    "spec": "1.0.0-beta.5-alpha.fb30fcd6",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gatsby-remark-responsive-image/-/gatsby-remark-responsive-image-1.0.0-beta.5-alpha.fb30fcd6.tgz",
+  "_shasum": "4e944a9f849cf577d3d7773e81aff29f12f4aaa0",
+  "_shrinkwrap": null,
+  "_spec": "gatsby-remark-responsive-image@1.0.0-beta.5-alpha.fb30fcd6",
+  "_where": "/home/chuck/localProjects/travellers.cafe",
+  "author": {
+    "name": "Kyle Mathews",
+    "email": "mathews.kyle@gmail.com"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "image-size": "^0.5.1",
+    "is-relative-url": "^2.0.0",
+    "lodash": "^4.17.4",
+    "unist-util-select": "^1.5.0"
+  },
+  "description": "Create responsive image thumbnails for your images used in your markdown",
+  "devDependencies": {
+    "babel-cli": "^6.24.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "4e944a9f849cf577d3d7773e81aff29f12f4aaa0",
+    "tarball": "https://registry.npmjs.org/gatsby-remark-responsive-image/-/gatsby-remark-responsive-image-1.0.0-beta.5-alpha.fb30fcd6.tgz"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "markdown",
+    "remark",
+    "image",
+    "responsive images"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "kylemathews",
+      "email": "mathews.kyle@gmail.com"
+    }
+  ],
+  "name": "gatsby-remark-responsive-image",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "build": "babel src --out-dir .",
+    "watch": "babel -w src --out-dir ."
+  },
+  "version": "1.0.0-beta.5-alpha.fb30fcd6"
+}
